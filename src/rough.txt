@@ -1,0 +1,18 @@
+Database setup
+
+
+Autherization and Authentication API
+
+ Create User,
+ Sign In,
+ Forgot password,
+ JWT,
+ bycrypt,
+
+
+
+ Schema,
+
+
+ app > route >controller > services > modal >database
+
